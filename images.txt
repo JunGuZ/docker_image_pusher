@@ -4,3 +4,5 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 nacos/nacos-server:v2.1.1
+bitnami/prometheus:2.47.2
+grafana/grafana:10.2.0
