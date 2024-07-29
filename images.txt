@@ -7,3 +7,4 @@ nacos/nacos-server:v2.1.1
 bitnami/prometheus:2.47.2
 grafana/grafana:10.2.0
 portainer/portainer:latest
+mysql:8.0.16
