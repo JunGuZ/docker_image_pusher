@@ -13,3 +13,4 @@ phpmyadmin:5.2.1
 spryker/redis-commander:0.8.0
 alpine:3.18.2
 phpmyadmin:5.2.1
+redis:7.2.0
