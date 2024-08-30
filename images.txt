@@ -1,1 +1,1 @@
-nyanmisaka/jellyfin:latest
+netdata/netdata
