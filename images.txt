@@ -1,1 +1,1 @@
-netdata/netdata
+apache/rocketmq:latest
