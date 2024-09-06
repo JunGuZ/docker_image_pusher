@@ -1,1 +1,1 @@
-xskycloud/xskycloud:latest
+wangxincloud/wangxincloud:latest
