@@ -1,1 +1,1 @@
-wangxincloud/wangxincloud:latest
+wangxincloud/wangxin-cloud:latest
